@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon CEFR: English-Arabic 20,000 Dictionary & Quiz",
+  "description": "Comprehensive 20,000-word English-Arabic CEFR dictionary from A1 to C1 with native audio pronunciations, interactive quiz modes, and spaced progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
